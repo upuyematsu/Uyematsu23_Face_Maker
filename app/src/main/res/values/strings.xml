@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Uyematsu_Alec_Homework2</string>
+    <string name="hair">Hair</string>
+    <string name="random_face">Random Face</string>
+
+    <string-array name="items">
+        <item>Bald</item>
+        <item>Hat</item>
+        <item>Afro</item>
+    </string-array>
+</resources>
